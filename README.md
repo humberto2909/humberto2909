@@ -1,59 +1,84 @@
-<h1 align="center">¡Hola! 👋 Soy Humberto Ramos</h1>
-<h3 align="center">Desarrollador backend .NET | Apasionado por la IA 🤖 y la automatización ⚙️</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wave&height=250&section=header&text=Humberto%20Javier%20Ramos%20Figueroa&fontSize=50&fontColor=ffffff&animation=fadeIn&color=gradient&c1=7aa2f7&c2=bb9af7" />
+</p>
+
+<h1 align="center">¡Hola! 👋 Soy Humberto Javier Ramos Figueroa</h1>
+<h3 align="center">Soy Ingeniero de Sistemas en Proceso</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=435&lines=Desarrollador+Full+Stack;Apasionado+por+la+IA+y+la+automatizaci%C3%B3n;Siempre+aprendiendo+nuevas+tecnolog%C3%ADas" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=435&lines=Desarrollador+de+Software;Backend+.NET+Developer;Entusiasta+de+la+Inteligencia+Artificial;Siempre+aprendiendo+nuevas+tecnolog%C3%ADas" />
 </p>
 
 ---
 
 ## 🧑‍💻 Sobre mí
 
-- 🎓 Estudiante de Ingeniería de Sistemas / Software <!-- o tu título actual -->
-- 💻 Especializado en desarrollo con **C#**, **ASP.NET Core**, **Entity Framework**, **SQL Server**
-- 🔭 Actualmente trabajando en proyectos personales para mejorar mis habilidades backend
-- 🌱 Aprendiendo más sobre arquitecturas limpias, APIs REST, y testing automatizado
-- ⚡ Me interesa la inteligencia artificial aplicada al desarrollo de soluciones reales
+¡Hola! Soy Humberto, un apasionado desarrollador de software, paginas web y estudiante de Ingeniería de Sistemas. Me encanta construir soluciones robustas y eficientes, con un interés especial en el desarrollo backend y la aplicación de la inteligencia artificial para resolver problemas del mundo real.
+
+- 🎓 Estudiante de **Ingeniería de Sistemas**.
+- 💻 Me especializo en el ecosistema de **.NET**, trabajando con **C#**, **ASP.NET Core** y **Entity Framework**.
+- 🐍 También tengo experiencia en **Python** y **Java**.
+- 🌐 Desarrollo frontend con **HTML**, **CSS** y **JavaScript**.
+- 🛢️ Manejo de bases de datos relacionales como **SQL Server** y **MySQL**.
+- 🚀 Siempre estoy buscando aprender nuevas tecnologías y mejorar mis habilidades.
 
 ---
 
-## 🛠️ Tecnologías que uso con frecuencia
+## 🛠️ Tecnologías y Herramientas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,sql,git,github,html,css,js,python,vscode" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cs,visualstudio,dotnet,python,java,html,css,js,bootstrap,mysql,sqlserver,git,github,vscode&perline=7" />
+  </a>
 </p>
 
 ---
 
 ## 📂 Proyectos Destacados
 
+A continuación, algunos de los proyectos en los que he trabajado. ¡No dudes en revisarlos!
+
 | Proyecto | Descripción | Tecnologías | Link |
 |---------|-------------|-------------|------|
-| **Sistema de Préstamos** | WebApp para gestionar préstamos de libros | C#, ASP.NET Core, SQL Server, EF | [Ver repo](https://github.com/<!--tuusuario-->/proyecto-prestamos) |
-| **Tienda Online** | CRUD completo para una tienda de ropa con reportes | C#, SQL Server, Bootstrap | [Ver repo](https://github.com/<!--tuusuario-->/tienda-online) |
-| **API Productos** | API REST para gestionar productos con filtros y paginación | ASP.NET Core, EF Core | [Ver repo](https://github.com/<!--tuusuario-->/api-productos) |
+| **Sistema de Préstamos** | WebApp para gestionar préstamos de libros en una biblioteca. | C#, ASP.NET Core, SQL Server, EF Core | [Ver repo](https://github.com/humberto2909/proyecto-prestamos) |
+| **Tienda Online** | CRUD completo para una tienda de ropa con reportes y gestión de inventario. | C#, SQL Server, Bootstrap | [Ver repo](https://github.com/humberto2909/tienda-online) |
+| **API de Productos** | API REST para la gestión de productos, con funcionalidades de filtros y paginación. | ASP.NET Core, EF Core | [Ver repo](https://github.com/humberto2909/api-productos) |
 
 ---
 
-## 📊 GitHub Stats
+## 🎨 Mi Actividad en 3D
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=humberto2909&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+ <img src="https://github-profile-3d-contrib.vercel.app/api?username=humberto2909&theme=tokyonight" alt="humberto2909's 3D contribution graph" />
+</p>
+
+---
+
+## 📊 Mis Estadísticas de GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=humberto2909&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="Humberto's GitHub Stats" />
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=humberto2909&layout=compact&theme=tokyonight" alt="Top Langs" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=humberto2909&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
 
 ## 🌐 Conecta conmigo
 
+¡No dudes en contactarme! Estoy abierto a colaborar en proyectos interesantes y a conectar con otros desarrolladores.
+
 <p align="center">
   <a href="mailto:humbertoramosfigue2005@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/<!--tuusuario-->/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/tu-usuario-linkedin" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://wa.me/573135748358" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
   <a href="https://github.com/humberto2909" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 ---
 
 ## 🙌 Gracias por visitar mi perfil
-⭐ ¡No dudes en darle star a los repos que te gusten o seguirme para ver mis futuros proyectos!  
+
+⭐ ¡Si te ha gustado mi trabajo, no olvides dejar una estrella en los repositorios que te interesen y seguirme para ver mis futuros proyectos! ⭐
