@@ -6,7 +6,7 @@
 <h3 align="center">Soy Ingeniero de Sistemas en Proceso</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=435&lines=Desarrollador+de+Software;Backend+.NET+Developer;Entusiasta+de+la+Inteligencia+Artificial;Siempre+aprendiendo+nuevas+tecnolog%C3%ADas" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&lines=Amante+de+la+programaci%C3%B3n;Codificando+ando;Desarrollador+de+Software;Creando+soluciones+con+c%C3%B3digo;Entusiasta+de+la+IA+y+la+automatizaci%C3%B3n" />
 </p>
 
 ---
@@ -46,14 +46,6 @@ A continuación, algunos de los proyectos en los que he trabajado. ¡No dudes en
 
 ---
 
-## 🎨 Mi Actividad en 3D
-
-<p align="center">
- <img src="https://github-profile-3d-contrib.vercel.app/api?username=humberto2909&theme=tokyonight" alt="humberto2909's 3D contribution graph" />
-</p>
-
----
-
 ## 📊 Mis Estadísticas de GitHub
 
 <p align="center">
@@ -72,7 +64,6 @@ A continuación, algunos de los proyectos en los que he trabajado. ¡No dudes en
 
 <p align="center">
   <a href="mailto:humbertoramosfigue2005@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/tu-usuario-linkedin" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://wa.me/573135748358" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
   <a href="https://github.com/humberto2909" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
