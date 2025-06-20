@@ -1,35 +1,74 @@
-# 👋 ¡Hola, soy Humberto Ramos!
+<h1 align="center">¡Hola! 👋 Soy Humberto Ramos</h1>
+<h3 align="center">Desarrollador backend .NET | Apasionado por la IA 🤖 y la automatización ⚙️</h3>
 
-🎓 Estudiante / Desarrollador de software con experiencia en desarrollo de aplicaciones con **C#**, **ASP.NET**, **Entity Framework** y **SQL Server**.
-
-💻 Apasionado por la tecnología, la inteligencia artificial y la automatización de procesos.
-
----
-
-## 🧰 Tecnologías que uso
-
-![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/-.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=435&lines=Desarrollador+Full+Stack;Apasionado+por+la+IA+y+la+automatizaci%C3%B3n;Siempre+aprendiendo+nuevas+tecnolog%C3%ADas" />
+</p>
 
 ---
 
-## 🚀 Proyectos Destacados
+## 🧑‍💻 Sobre mí
 
-- 🎯 [Sistema de Préstamos con ASP.NET y EF Core](https://github.com/tuusuario/proyecto-prestamos)
-- 🛒 [Tienda Online con SQL y Entity Framework](https://github.com/tuusuario/tienda-online)
-
----
-
-## 📊 Estadísticas
-
-![Humberto's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&theme=tokyonight)
+- 🎓 Estudiante de Ingeniería de Sistemas / Software <!-- o tu título actual -->
+- 💻 Especializado en desarrollo con **C#**, **ASP.NET Core**, **Entity Framework**, **SQL Server**
+- 🔭 Actualmente trabajando en proyectos personales para mejorar mis habilidades backend
+- 🌱 Aprendiendo más sobre arquitecturas limpias, APIs REST, y testing automatizado
+- ⚡ Me interesa la inteligencia artificial aplicada al desarrollo de soluciones reales
 
 ---
 
-## 📫 Contacto
+## 🛠️ Tecnologías que uso con frecuencia
 
-- 📧 Email: [tucorreo@email.com](mailto:tucorreo@email.com)
-- 💼 LinkedIn: [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,sql,git,github,html,css,js,python,vscode" />
+</p>
+
+---
+
+## 📂 Proyectos Destacados
+
+| Proyecto | Descripción | Tecnologías | Link |
+|---------|-------------|-------------|------|
+| **Sistema de Préstamos** | WebApp para gestionar préstamos de libros | C#, ASP.NET Core, SQL Server, EF | [Ver repo](https://github.com/<!--tuusuario-->/proyecto-prestamos) |
+| **Tienda Online** | CRUD completo para una tienda de ropa con reportes | C#, SQL Server, Bootstrap | [Ver repo](https://github.com/<!--tuusuario-->/tienda-online) |
+| **API Productos** | API REST para gestionar productos con filtros y paginación | ASP.NET Core, EF Core | [Ver repo](https://github.com/<!--tuusuario-->/api-productos) |
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=<!--tuusuario-->&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=<!--tuusuario-->&layout=compact&theme=tokyonight" alt="Top Langs" />
+</p>
+
+---
+
+## 🌐 Conecta conmigo
+
+<p align="center">
+  <a href="mailto:<!--tucorreo@email.com-->"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/<!--tuusuario-->/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/<!--tuusuario-->" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+
+---
+
+## 📅 Actividad Reciente
+
+<!-- Puedes activar esto usando GitHub Actions -->
+<!-- https://github.com/Readme-Workflows/recent-activity -->
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+---
+
+## 🧠 Frase favorita
+> _“La mejor forma de predecir el futuro es crearlo.”_ – Peter Drucker
+
+---
+
+## 🙌 Gracias por visitar mi perfil
+⭐ ¡No dudes en darle star a los repos que te gusten o seguirme para ver mis futuros proyectos!  
