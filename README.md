@@ -42,7 +42,7 @@ A continuación, algunos de los proyectos en los que he trabajado. ¡No dudes en
 |---------|-------------|-------------|------|
 | **Sistema de Préstamos** | WebApp para gestionar préstamos de libros en una biblioteca. | C#, ASP.NET Core, SQL Server, EF Core | [Ver repo](https://github.com/humberto2909/proyecto-prestamos) |
 | **Tienda Online** | CRUD completo para una tienda de ropa con reportes y gestión de inventario. | C#, SQL Server, Bootstrap | [Ver repo](https://github.com/humberto2909/tienda-online) |
-| **API de Productos** | API REST para la gestión de productos, con funcionalidades de filtros y paginación. | ASP.NET Core, EF Core | [Ver repo](https://github.com/humberto2909/api-productos) |
+| **API de Transacciones** | API REST Que simula la transaccion entre aplicaciones interbancarias como "NEQUI" totalmente funcional. | ASP.NET Core, EF Core | [Ver repo]((https://github.com/humberto2909/Proyecto-Web-Necli.git)) |
 
 ---
 
