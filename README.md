@@ -39,12 +39,14 @@
 A continuación, algunos de los proyectos en los que he trabajado. ¡No dudes en revisarlos!
 
 | Proyecto | Descripción | Tecnologías | Link |
-|---------|-------------|-------------|------|
+|-----------|--------------|--------------|------|
 | **Sistema de Préstamos** | WebApp para gestionar préstamos de libros en una biblioteca. | C#, ASP.NET Core, SQL Server, EF Core | [Ver repo](https://github.com/humberto2909/BiblioExpresPractica.git) |
-| **Tienda Online** | CRUD completo para una tienda de ropa con reportes y gestión de inventario. | C#, SQL Server, Bootstrap | [Ver repo](https://github.com/humberto2909/tienda-online) |
-| **API de Transacciones** | API REST Que simula la transaccion entre aplicaciones interbancarias como "NEQUI" totalmente funcional. | ASP.NET Core, EF Core | [Ver repo](https://github.com/humberto2909/Proyecto-Web-Necli.git) |
+| **Aplicación Móvil de Teléfono** | App móvil que permite realizar llamadas, agregar, editar y eliminar contactos, además de enviar mensajes y videollamadas. | .NET MAUI, C#, CommunityToolkit.Maui | [Ver repo](https://github.com/humberto2909/AppMovil-Telefono.git) |
+| **API de Transacciones** | API REST que simula transacciones entre aplicaciones interbancarias como "Nequi", totalmente funcional. | ASP.NET Core, EF Core | [Ver repo](https://github.com/humberto2909/Proyecto-Web-Necli.git) |
+
 
 ---
+
 
 ## 📊 Mis Estadísticas de GitHub
 
